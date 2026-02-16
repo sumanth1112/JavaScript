@@ -1,0 +1,26 @@
+//let a = 10
+// console.log(a)
+
+let a = function greet() {
+    console.log("Hello World")
+}
+
+// console.log(a)
+a()
+
+function greet() {
+    console.log("Hello World")
+}
+greet()
+
+/*let add = (x, y) => {
+    console.log(x+y)
+}
+add(4,5)
+
+let add = (x, y) => {
+    return x + y
+}
+let result = add(10, 20)
+console.log(result) */
+
