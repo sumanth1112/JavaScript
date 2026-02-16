@@ -12,3 +12,4 @@ const {name, age} = student
 console.log(name)
 console.log(age)
 console.log(name)
+console.log(age)
